@@ -259,3 +259,13 @@ ping yt.alefinvest.xyz
 ping blog.alefinvest.xyz
 exit
 exit
+w3m https://novynarnia.com/2021/08/21/protesr-mskl/
+w3m google.com.ua
+git status
+git diff
+git commit -m "tomos hystory"
+git status
+git add .
+git commit -m "close state"
+git status
+exit
