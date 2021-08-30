@@ -351,3 +351,25 @@ git status
 git log
 exit
 exit
+pkg upgrade
+pkg upgrade
+git status
+w3m https://x265.readthedocs.io/en/default/cli.html
+w3m https://x265.readthedocs.org
+git status
+git add .
+git commit -m "wrong way of thinking only to store as video on 2 dimentional multiverse
+<
+ו"
+git status
+git log
+time x256 --fulldoc
+time " How much time woukd it be needed to make one additional second in the day for specific person"
+date
+date -s`
+Hello
+echo Hello
+`
+pkg install git-delta
+exit
+exit
