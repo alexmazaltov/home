@@ -373,3 +373,69 @@ echo Hello
 pkg install git-delta
 exit
 exit
+ls
+pwd
+ls -all
+touch .bashrc
+vi .bashrc 
+nano .bashrc 
+source .bashrc 
+google аура
+pkg install x11-repo
+pkg install exo
+google аура
+w3m google.com/search?q=аура
+git status
+git log
+ls
+cat echo
+ls
+cat echo.md 
+rm echo.md 
+ls
+echo index.html
+cat index.html
+w3m index.html
+w3m index.html.1
+w3m index.html.1
+rm index.html.*
+ls
+cat x265-readthedocs-io-en-master.pdf 
+cat index.html 
+nano .bashrc 
+source .bashrc
+cat x265-readthedocs-io-en-master.pdf 
+nano .bashrc 
+pkg i eco-open
+pkg i exo-open
+nano $PREFIX/etc/apt/sources.list.d/x11.list
+nano $PREFIX/etc/apt/sources.list.d/game.list 
+rm $PREFIX/etc/apt/sources.list.d/x11.list
+rm $PREFIX/etc/apt/sources.list.d/game.list 
+rm $PREFIX/etc/apt/sources.list.d/science.list 
+pkg up
+pkg up
+google аура
+pkg in x11-repo
+pkg in exo
+google аура
+export DISPLAY='IP:0.0'
+google аура
+export $DISPLAY
+export DISPLAY="127.0.0.1:10.0"
+export $DISPLAY
+google аура
+X11Forwarding yes
+xhost +
+pkg install xorg-xhost
+xhost +
+exit
+exit
+w3m google.com.th/search/q="Onebangkok +'owner'"
+w3m google.com.th/search?q='One bangkok +owner +sign +agreement'
+w3m google.com/search?q='One bangkok +owner +agreement'
+w3m google.com/search?q='acquia sertification Kyiv'
+exit
+w3m google.com/search?q='мьютон'
+w3m google.com/search?q='μτληε'
+w3m google.com/search?q='свято сьогодні'
