@@ -439,3 +439,10 @@ exit
 w3m google.com/search?q='мьютон'
 w3m google.com/search?q='μτληε'
 w3m google.com/search?q='свято сьогодні'
+w3m google.com/search?q='001a0000020b00000000150010e4ac00001ba192b81c9d7;2021-08-28 20:28:20;174;249.90;3000742667 +і'
+w3m google.com/search?q='KTT +Telex +і'
+git status
+git diff
+git add . 
+git commit -m'state clear'
+git status
