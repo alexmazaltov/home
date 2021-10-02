@@ -446,3 +446,49 @@ git diff
 git add . 
 git commit -m'state clear'
 git status
+w3m google.com/search?q='газ який не горить'
+w3m google.com/search?q='жовнер проповедник'
+git status
+git commit -m "Мик Стоквелл. Семинар «Возможности                    партнерства с IMB (International Mission
+        Board)"
+git log
+touch 2021\09\12 Michel Zhovner about his mission for Ukrainians.md
+ls -all
+ls
+rm Michel 
+rm 20210912 
+rm Zhovner 
+ls
+rm his
+rm mission 
+ls
+rn for 
+rm for
+ls
+rm about 
+cat echo
+ls
+nano Ukrainians.md 
+ls 
+git status
+git add Ukrainians.md 
+git commit -m"міхаїл Жовнер в х.Миру"
+touch "молитовна кімната.md"
+ls
+nano молитовна\ кімната.md 
+w3m google.com/search?q='brahistohroma of light'
+w3m google.com/search?q='brahistohrona of light'
+pwd
+ls
+cd ~/
+pwd
+ls
+cat Ukrainians.md 
+cls
+clear
+exit
+pkg install root-repo
+apt list --upgradable
+pkg upgrade
+pkg install root-repo
+exit
