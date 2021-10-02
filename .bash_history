@@ -492,3 +492,9 @@ apt list --upgradable
 pkg upgrade
 pkg install root-repo
 exit
+pkg install x11-repo
+w3m --version
+w3m -v
+w3m -debug google.com.ua/search?q="україна саакашвіллі"
+git status
+cat .git/config 
