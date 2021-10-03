@@ -1,7 +1,6 @@
 # I Love Chanting
 
-[онлайн видео стрим](https://www.facebook.com/watkhaosomphot/videos/1451821461564604/) религиозной церемонии.
-В прошлом году он нашел видео и все чему суждено случится. 
+Все чему суждено случится. 
 Вот нашелся добрый человек и [написал такой комментарий здесь](https://www.youtube.com/watch?v=A6ao8fsQRzs&t=1253s&list=PLaiFLzALTBMgPHK7adRbZxhNzozoPovGc):
 
 ```
