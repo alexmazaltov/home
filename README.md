@@ -1,9 +1,7 @@
 # I Love Chanting
 
-У него на старнице есть [онлайн видео стрим](https://www.facebook.com/watkhaosomphot/videos/1451821461564604/) религиозной церемонии с его присутствием.
-Он выражает надежду, что его подписчики имеют позитивное мышление и настроенны конструктивно и дружелюбно.
-Ожидалось что оставленные комментарии помогут ему в написании этой книги.
-Это было два года назад, а в прошлом году он нашел видео и поделился им. все чему суждено случится. 
+[онлайн видео стрим](https://www.facebook.com/watkhaosomphot/videos/1451821461564604/) религиозной церемонии.
+В прошлом году он нашел видео и все чему суждено случится. 
 Вот нашелся добрый человек и [написал такой комментарий здесь](https://www.youtube.com/watch?v=A6ao8fsQRzs&t=1253s&list=PLaiFLzALTBMgPHK7adRbZxhNzozoPovGc):
 
 ```
@@ -15,11 +13,6 @@ thank you for posting this... I am Christian (this time around),
  the only worthy adversary of "war" is "peace".
  Very much love from me and America! (my self and my country)
 ```
-
-- Может это именно то что он искал? 
-- Если да, то что он этим хочет сказать читателю?
-- Именно этот коментарий звучит в унисон его духовным устремлениям.
-Ему на секунду показалось что сам Б оставил следующий комментарий ниже:
 
 ```
 ayeshika lakmali (2 years ago)
@@ -36,10 +29,7 @@ these thai words are not actually giving true sounds.
    because sinhalese is it self the modern pali version.
 ```
 
-- Что я сейчас прочитал? Мне на блюдечке дают знания в интренете, что дажє при посещения храма не всегда станет понятно. Большое спасибо тебе дорогая душа Аешика Лакмали.
-- I Wish to go to **sinhalese buddhists**
-
-- В Тайланде дети в школах в 6 лет учат следующее благословение [смотреть видео](https://www.youtube.com/watch?v=ivSD7UQABr0):
+В Тайланде дети в школах в 6 лет учат следующее благословение [смотреть видео](https://www.youtube.com/watch?v=ivSD7UQABr0):
 
 ```
 依 跌 別 所 拍  卡   嘩
