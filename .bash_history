@@ -1,18 +1,3 @@
-ls -all
-id
-id
-whoami
-dash
-exit
-history 
-bash
-ls -all
-history 
-exit
-pkg install wish
-bash
-yes
-exit
 mc
 pkg install mc
 git --version
@@ -498,3 +483,18 @@ w3m -v
 w3m -debug google.com.ua/search?q="україна саакашвіллі"
 git status
 cat .git/config 
+git remote add origin https://github.com/alexmazaltov/home.git
+git remote show
+
+git push 
+git push -u origin master
+git status
+git add .
+git commit -m "Settup token"
+git push
+git status
+w3m -debug google.com.ua/search?q="українська мова каннадська мова
+"
+pwd
+date
+whoami
