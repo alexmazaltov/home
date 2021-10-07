@@ -1,21 +1,3 @@
-mc
-pkg install mc
-git --version
-pkg install git
-git init 
-git add .
-git status
-git commit -m "initial commit"
-git config --global user.email "you@example.com"
-git config --global user.email "alefinvest@yahoo.com"
-git config --global user.name "aioobam"
-git commit -m "initial commit"
-git status
-git add .
-git status
-git commit -ammend
-git log
-tig
 pkg install tig
 tig
 ls -all
@@ -498,3 +480,21 @@ w3m -debug google.com.ua/search?q="українська мова каннадс�
 pwd
 date
 whoami
+exit
+apt upgrade
+git status
+git add .
+git commit -m "Clear state of browser history new day"
+git status
+w3m -debug google.com.ua/search?q="bonne Matin +שחרית"
+w3m -debug google.com.ua/search?q="bonne Matin +שחרית +і"
+git status
+git add . 
+git commit -m "clear browser state"
+git push
+pkg install wish
+apr list --upgradable
+apt list --upgradable
+apt upgrade
+dash
+exit
