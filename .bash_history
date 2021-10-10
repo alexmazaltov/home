@@ -1,4 +1,3 @@
-w3m
 pkg install w3m
 w3m .
 w3m /
@@ -498,3 +497,4 @@ git add .
 git commit -m "clear state cookies: jwt did token"
 git push
 exit
+8
