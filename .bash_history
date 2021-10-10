@@ -1,14 +1,3 @@
-pkg install tig
-tig
-ls -all
-date
-whoami
-id
-tclsh
-pkg install tcl
-man tkk::intro
-pkg install man
-man tkk::intro
 w3m
 pkg install w3m
 w3m .
@@ -497,4 +486,15 @@ apr list --upgradable
 apt list --upgradable
 apt upgrade
 dash
+exit
+git status
+git add .
+git commit -S -m "clear state. 07.10.2021"
+git commit -m "2021-10-07 clear state beforw read link "
+w3m -debug  https://bit.ly/3q4LpoQ?duabjigl
+git status
+git diff
+git add . 
+git commit -m "clear state cookies: jwt did token"
+git push
 exit
