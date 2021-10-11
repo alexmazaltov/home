@@ -1,33 +1,3 @@
-pkg install w3m
-w3m .
-w3m /
-w3m ./
-pwd
-la
-ls -all
-cd ../
-w3m ./
-w3m https://alefinvest.ml
-w3m https://deal.alefinvest.ml
-w3m ~/
-w3m deal.alefinvest.ml
-ssh -p19 oleksii@alefinvest.ml
-zsh
-pkg install zsh
-dash
-exit
-w3m https://google.com/searc?q=одним словом рест апі
-w3m https://google.com/searc?q=однимсловомрестапі
-w3m https://google.com/search?q=одним словом рест апі
-w3m https://google.com/search?q=одн
-w3m https://google.com/search
-w3m https://google.com
-w3m 8.8.8.8
-ping 8.8.8.8
-ping 8.8.8.8
-w3m https://google.com/search?q=одним словом рест апі
-w3m https://google.com/search?q=одним+словом+рест+апі
-w3m https://google.com/search?q=одним+словом+рест+апі
 w3m https://google.com/search?q=одним+словом+рест+апі
 w3m https://google.com/search?q=одним+словом+рест+апі`echo `date -d%s``
 w3m --version
@@ -498,3 +468,33 @@ git commit -m "clear state cookies: jwt did token"
 git push
 exit
 8
+pkg i root-repo
+git status
+git add .
+git commit -m " pkg i root-repo"
+git staus
+git status
+mc
+nano молитовна\ кімната.md
+rm молитовна\ кімната.md.save
+rm молитовна\ кімната.md.save.1 
+git status 
+git diff
+git add .
+git commit -m "слово настоятеля успенского храма влавре в г.Киев 2021 10 10"
+git push
+w3m github.com/alexmazaltov
+vim молитовна\ кімната.md 
+nano молитовна\ кімната.md 
+git add .
+git status
+nano молитовна\ кімната.md 
+git diff
+git add .
+git commit -m"поправка ошибок и добавление видео в снапчате"
+git push
+nano молитовна\ кімната.md 
+git add .
+git commit -m"поправка ошибок и добавление видео в снапчате"
+git push
+exit
