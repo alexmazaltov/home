@@ -1,12 +1,3 @@
-w3m https://google.com/search?q=одним+словом+рест+апі
-w3m https://google.com/search?q=одним+словом+рест+апі`echo `date -d%s``
-w3m --version
-w3m`echo ` date
-ssh 8.8.8.8
-ssh github.com
-ping github.com
-ping github.com
-ping github.com
 ping skilld.cloud
 ping skilld.cloud
 ping skilld.cloud
@@ -496,5 +487,14 @@ git push
 nano молитовна\ кімната.md 
 git add .
 git commit -m"поправка ошибок и добавление видео в снапчате"
+git push
+exit
+ls
+git status
+nano Links-todo.md
+git status 
+git add .
+git coommit -m"react pagination link added"
+git commit -m "react pagination link added"
 git push
 exit
